@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoBot_v1.0", "AutoBot_v1.0\AutoBot_v1.0.csproj", "{3C2292F0-5D26-4D35-9453-B126C49147E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLogic", "ServiceLogic\ServiceLogic.csproj", "{386C7AF8-DE13-4775-ABE7-609DEBFCD5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{DA464B6C-A410-48D3-AD81-F458B6188F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseStorage", "DatabaseStorage\DatabaseStorage.csproj", "{FED15BB1-06DC-4B94-98D7-38328E64E4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2292F0-5D26-4D35-9453-B126C49147E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2292F0-5D26-4D35-9453-B126C49147E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2292F0-5D26-4D35-9453-B126C49147E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2292F0-5D26-4D35-9453-B126C49147E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386C7AF8-DE13-4775-ABE7-609DEBFCD5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386C7AF8-DE13-4775-ABE7-609DEBFCD5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386C7AF8-DE13-4775-ABE7-609DEBFCD5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386C7AF8-DE13-4775-ABE7-609DEBFCD5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA464B6C-A410-48D3-AD81-F458B6188F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA464B6C-A410-48D3-AD81-F458B6188F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA464B6C-A410-48D3-AD81-F458B6188F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA464B6C-A410-48D3-AD81-F458B6188F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED15BB1-06DC-4B94-98D7-38328E64E4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED15BB1-06DC-4B94-98D7-38328E64E4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED15BB1-06DC-4B94-98D7-38328E64E4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED15BB1-06DC-4B94-98D7-38328E64E4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

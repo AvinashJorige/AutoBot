@@ -1,0 +1,53 @@
+﻿{
+  "Default": [
+    {
+      "systemName": "Savitar",
+      "systemVersion": "v.1.0",
+      "systemCreatedBy": "Avinash J"
+    }
+  ],
+  "PredefinedIndexes": [
+    {
+      "index": "your name",
+      "action": "Savitar"
+    },
+    {
+      "index": "can you do",
+      "action": "What ever you want."
+    },
+    {
+      "index": "about yourself",
+      "action": "I can do what even you want and i am capable of doing more the any other machines. :)"
+    },
+    {
+      "index": "talk back to me",
+      "action": "Yes, I can talk back to you. Just try me."
+    },
+    {
+      "index": "hello",
+      "action": "Hi Buddy. How are you?"
+    },
+    {
+      "index": "good and you",
+      "action" : "I am doing great."
+    },
+    {
+      "index": "good and how about you",
+      "action": "I am doing great."
+    },
+    {
+      "index": "good. how about you",
+      "action": "I am doing great and how about you dude."
+    },
+    {
+      "index": "how are you",
+      "action": "I am doing great and how about you dude."
+    },
+    {
+      "index": "who are you",
+      "action": "I am Savitar. An Automated replaying machine. Created by Avinash."
+    }
+  ],
+  "SaveList": [ "save", "tell", "say" ],
+  "talkBack": [ "just repeat","repeat it", "tell again", "talk back"]
+}
